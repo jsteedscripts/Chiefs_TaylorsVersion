@@ -1,4 +1,4 @@
-# ElectricTouch_Down
+# ElectricTouch_Down {WIP}
 
 ## Project Overview
 This project utilizes the nflfastR package to analyze Kansas City Chiefs data from the past ten seasons and build three different predictive models.
@@ -31,3 +31,5 @@ Offensive and defensive measures wer calculated and used to build models to gene
 * Average number of interceptions
 * Opponent's passing efficiency
 * Average QB hits
+
+## Predictive Models
