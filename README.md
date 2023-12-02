@@ -1,4 +1,5 @@
-# ElectricTouch_Down {WIP}
+# ElectricTouch_Down
+In honor of Taylor Swift's contribution to the team.
 
 ## Project Overview
 This project utilizes the nflfastR package to analyze Kansas City Chiefs data from the past ten seasons and build three different predictive models.
